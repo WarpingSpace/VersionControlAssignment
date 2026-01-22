@@ -1,1 +1,2 @@
 1) Jumping Higher every time.
+2) Gravity get weaker when you fail to defeat enemies.
