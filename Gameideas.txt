@@ -1,3 +1,5 @@
 1) Jumping Higher every time.
 2) Gravity get weaker when you fail to defeat enemies.
 3) Fire balls float in your direction, dodge them.
+
+My favorite is idea number 3.
